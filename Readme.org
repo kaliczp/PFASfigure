@@ -1,0 +1,11 @@
+- Selected componets:
+  PFBA , PFPeA , PFHxA , PFHPA, PFOA , PFNA , PFBS , PFPeS, PFPHxS , PFOS , 6.2 FTS
+
+- From the selected components a combined figure with all creeks.
+
+- Other sources
+  - Waste water KI and BE different componets
+  - Solid Phase Extraction: One component
+    - normal
+    - evaporation
+- Drinking water just evaporation
